@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WhereIsMyPhone</string>
+    <string name="start_service">Start Service</string>
+    <string name="stop_service">Stop Service</string>
+    <string name="file_str_file_extCardDir">/storage/extSdCard</string>
+    <string name="app_dev">WhereIsMyPhone</string>
+    <string name="file_str_file_name">settings.xml</string>
+</resources>
